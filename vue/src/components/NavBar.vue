@@ -59,7 +59,7 @@ export default {
     }
 }
 </script>
-<style scoped>
+<style >
 body {
   background-image: url("../assets/image/background.png");
   background-size: cover;

@@ -12,8 +12,6 @@ const routes = [
     redirect: "/pk/"
   },
 
-
-
   {
     path: "/pk/",
     name: "pk_index",
@@ -55,7 +53,6 @@ const routes = [
     redirect: "/404/"
   }
 ]
-
 const router = createRouter({
   history: createWebHistory(),
   routes

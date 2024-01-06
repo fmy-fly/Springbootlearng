@@ -24,5 +24,8 @@ export default {
 
 
 <style scoped>
-
+body {
+  background-image: url("../src/assets/image/background.png");
+  background-size: cover;
+}
 </style>
