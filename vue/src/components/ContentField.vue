@@ -7,9 +7,10 @@
         </div>
     </div>
 </template>
-<script>
 
+<script>
 </script>
+
 <style scoped>
 div.content-field {
     margin-top: 20px;

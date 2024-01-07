@@ -1,16 +1,18 @@
 <template>
-    <ContentField>我的Bot</ContentField>
+    <ContentField>
+        我的Bot
+    </ContentField>
 </template>
 
-
 <script>
-import ContentField from "../../../components/ContentField.vue"
+import ContentField from '../../../components/ContentField.vue'
+
 export default {
     components: {
         ContentField
     }
 }
-
 </script>
 
-<style scoped></style>
+<style scoped>
+</style>

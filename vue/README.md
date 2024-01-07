@@ -1,4 +1,4 @@
-# vue
+# web
 
 ## Project setup
 ```

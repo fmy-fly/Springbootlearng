@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/pk/") //localhost:8081/pk/
 public class IndexController {
-//    @RequestMapping("getBotInfo/")
-//    public String getBotInfo(){
-//        return "hhhh";
-//    }
+    @RequestMapping("index/")
+    public String index(){
+        return "pk/index.html";
+    }
 }
